@@ -1,4 +1,4 @@
-Per eseguire il codice "code.py" è necessario scaricare il dataset Avila, disponibile al seguente URL:
+Per eseguire il codice "code.py" è necessario scaricare il dataset Avila "avila.zip", disponibile al seguente URL:
 
 http://archive.ics.uci.edu/ml/machine-learning-databases/00459/
 
